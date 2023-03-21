@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsRestAPI", "WindowsFormsRestAPI\WindowsFormsRestAPI.csproj", "{6FDD55B0-DF59-445B-86D5-66DE8E097AC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleWebAPI", "ConsoleWebAPI\ConsoleWebAPI\ConsoleWebAPI.csproj", "{130C569D-7C1C-496F-8D03-BAC5CB8652A0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleWebAPI", "ConsoleWebAPI\ConsoleWebAPI.csproj", "{95B15419-C0A6-4519-9CE9-C7E0015CC101}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{6FDD55B0-DF59-445B-86D5-66DE8E097AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FDD55B0-DF59-445B-86D5-66DE8E097AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FDD55B0-DF59-445B-86D5-66DE8E097AC4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{130C569D-7C1C-496F-8D03-BAC5CB8652A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{130C569D-7C1C-496F-8D03-BAC5CB8652A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{130C569D-7C1C-496F-8D03-BAC5CB8652A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{130C569D-7C1C-496F-8D03-BAC5CB8652A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95B15419-C0A6-4519-9CE9-C7E0015CC101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B15419-C0A6-4519-9CE9-C7E0015CC101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95B15419-C0A6-4519-9CE9-C7E0015CC101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B15419-C0A6-4519-9CE9-C7E0015CC101}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
