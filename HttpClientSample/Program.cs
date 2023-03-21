@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace HttpClientSample
 {
+    //-- forras: https://learn.microsoft.com/en-us/aspnet/web-api/overview/advanced/calling-a-web-api-from-a-net-client
     #region snippet_prod
     //-- NuGet: Microsoft.AspNet.WebApi.Client csomag is kell a 
     public class User
